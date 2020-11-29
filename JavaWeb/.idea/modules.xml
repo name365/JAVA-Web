@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_html/01_html.iml" filepath="$PROJECT_DIR$/01_html/01_html.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_javaScript/02_javaScript.iml" filepath="$PROJECT_DIR$/02_javaScript/02_javaScript.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_jQuery/03_jQuery.iml" filepath="$PROJECT_DIR$/03_jQuery/03_jQuery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_book/04_book.iml" filepath="$PROJECT_DIR$/04_book/04_book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_web_xml/05_web_xml.iml" filepath="$PROJECT_DIR$/05_web_xml/05_web_xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_servlet/06_servlet.iml" filepath="$PROJECT_DIR$/06_servlet/06_servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_EL/07_EL.iml" filepath="$PROJECT_DIR$/07_EL/07_EL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_jsp/08_jsp.iml" filepath="$PROJECT_DIR$/08_jsp/08_jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_cookies/09_cookies.iml" filepath="$PROJECT_DIR$/09_cookies/09_cookies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_guigubook/10_guigubook.iml" filepath="$PROJECT_DIR$/10_guigubook/10_guigubook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_filter/11_filter.iml" filepath="$PROJECT_DIR$/11_filter/11_filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12_JSON/12_JSON.iml" filepath="$PROJECT_DIR$/12_JSON/12_JSON.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaWeb.iml" filepath="$PROJECT_DIR$/JavaWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book/book.iml" filepath="$PROJECT_DIR$/book/book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tmp/tmp.iml" filepath="$PROJECT_DIR$/tmp/tmp.iml" />
+    </modules>
+  </component>
+</project>

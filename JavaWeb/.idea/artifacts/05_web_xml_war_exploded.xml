@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="05_web_xml:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/05_web_xml_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="05_web_xml/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="05_web_xml" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="module" name="commons-beanutils-1.8.0" module-name="05_web_xml" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

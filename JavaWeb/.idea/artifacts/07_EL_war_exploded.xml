@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="07_EL:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/07_EL_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="07_EL/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="07_EL" />
+          <element id="library" level="project" name="apache-tomcat-8.5" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="module" name="commons-fileupload-1.2.1" module-name="07_EL" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="06_servlet:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/06_servlet_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="06_servlet/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="06_servlet" />
+          <element id="library" level="project" name="apache-tomcat-8.5" />
+          <element id="dir-copy" path="$PROJECT_DIR$/../../../Tomcat/apache-tomcat-8.5.59" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

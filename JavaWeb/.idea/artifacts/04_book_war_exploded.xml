@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="04_book:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/04_book_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="04_book/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="04_book" />
+          <element id="library" level="project" name="apache-tomcat-8.5" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="module" name="commons-beanutils-1.8.0" module-name="04_book" />
+          <element id="library" level="module" name="commons-beanutils-1.8.0 (2)" module-name="04_book" />
+          <element id="library" level="module" name="kaptcha-2.3.2" module-name="04_book" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

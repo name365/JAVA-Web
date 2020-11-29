@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="03_jQuery:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/03_jQuery_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="04_jQuery" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
